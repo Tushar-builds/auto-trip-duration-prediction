@@ -1,9 +1,10 @@
 # Auto Trip Duration Prediction using Machine Learning
 
 ## Team
-Hackenatics
+**Hackenatics**
 
 ## Hackathon
+### IDEATRON
 Netweb AI for Public Good Hackathon
 
 ## Overview
@@ -28,8 +29,8 @@ NYC Taxi Trip Duration Dataset (Kaggle)
 https://www.kaggle.com/competitions/nyc-taxi-trip-duration/data
 
 ## Model Used
-- Gradient Boosting Regressor (GBM)
-- Features:
+- **Light Gradient Boosting Regressor** (LGBM)
+- Feature Engineering :
   - Haversine distance
   - Pickup hour
   - Day of week
